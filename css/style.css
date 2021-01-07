@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Perso",Arial, Helvetica, sans-serif;
+}
+
+@font-face{
+    font-family: "Perso";
+    src: url("518--Light.otf");
+}
+
+body{
+    background: aquamarine;
+}
+
+h1{
+    text-align: center;
+}
+
+.player{
+    
+}
